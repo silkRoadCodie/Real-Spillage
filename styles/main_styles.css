@@ -1,22 +1,4 @@
 @charset "utf-8";
-/* CSS Document */
-
-/******************************
-
-[Table of Contents]
-
-1. Fonts
-2. Body and some general stuff
-3. Header
-4. Menu
-5. Home
-6. Shows
-7. Weekly
-8. Shows 2
-9. Footer
-
-
-******************************/
 
 /***********
 1. Fonts
@@ -26,9 +8,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
 
-/*********************************
-2. Body and some general stuff
-*********************************/
+
 
 *
 {
@@ -338,7 +318,7 @@ section
 }
 
 /*********************************
-3. Header
+Header
 *********************************/
 
 .header
@@ -509,7 +489,7 @@ section
 }
 
 /*********************************
-4. Menu
+Menu
 *********************************/
 
 .menu
@@ -655,7 +635,7 @@ section
 }
 
 /*********************************
-5. Home
+Home
 *********************************/
 
 .home
